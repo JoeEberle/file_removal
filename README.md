@@ -1,10 +1,10 @@
-# File Manager - Easily copy, delete, or transfer files
+# File Removal - Easily remove files you dont want 
 
 ![solution code Logo](code.png)
 
 ## Description
 
-File Manager - Easily copy, archive, delete, or transfer files
+FilFile Removal - Easily remove files you dont want 
 
 ![Developer Logo](developer.png)
 
