@@ -1,5 +1,8 @@
-2023-12-08 09:56:05,688 - INFO - START file_remover =============================================
-2023-12-08 09:56:05,688 - INFO - START file_remover Start Time = 2023-12-08 09:56:05
-2023-12-08 09:56:05,688 - INFO - file_remover Step 0 - Initialize the configuration file parser
-2023-12-08 09:56:06,201 - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
-2023-12-08 09:56:06,201 - INFO - NumExpr defaulting to 8 threads.
+2023-12-15 08:39:24,842 - INFO - START file_remover =============================================
+2023-12-15 08:39:24,842 - INFO - START file_remover Start Time = 2023-12-15 08:39:24
+2023-12-15 08:39:24,842 - INFO - file_remover Step 0 - Initialize the configuration file parser
+2023-12-15 08:39:24,997 - INFO - PERFORMANCE file_remover The total process duration was:0.15
+2023-12-15 08:39:24,997 - INFO - PERFORMANCE file_remover Stop Time = 2023-12-15 08:39:24
+2023-12-15 08:39:24,997 - INFO - PERFORMANCE file_remover Short process duration less than 3 Seconds:0.15
+2023-12-15 08:39:24,997 - INFO - PERFORMANCE file_remover Performance optimization is not reccomended
+2023-12-15 08:39:24,997 - INFO - END file_remover =============================================
