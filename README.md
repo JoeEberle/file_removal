@@ -4,7 +4,7 @@
 
 ## Description
 
-FilFile Removal - Easily remove files you dont want 
+File Removal - Easily remove files you dont want 
 
 ![Developer Logo](developer.png)
 
@@ -12,7 +12,6 @@ FilFile Removal - Easily remove files you dont want
 ## Features
 
 - copies files
-- moves files
 - delete files
 - Removes files of a specific type of name
 
