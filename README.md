@@ -1,4 +1,4 @@
-# File Removal - Easily remove files you dont want 
+# File Removal - Easily remove files you dont want  
 
 ![solution code Logo](code.png)
 
@@ -8,10 +8,9 @@ File Removal - Easily remove files you dont want
 
 ![Developer Logo](developer.png)
 
-
 ## Features
 
-- copies files
+- copies or moves files
 - delete files
 - Removes files of a specific type of name
 
