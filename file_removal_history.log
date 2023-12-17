@@ -1,0 +1,13 @@
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023-12-16 22:34:42,102 - INFO - START file_removal =============================================
+2023-12-16 22:34:42,102 - INFO - START file_removal Start Time = 2023-12-16 22:34:42
+2023-12-16 22:34:42,103 - INFO - file_removal Step 0 - Initialize the configuration file parser
+2023-12-16 22:34:42,241 - INFO - PERFORMANCE file_removal The total process duration was:0.14
+2023-12-16 22:34:42,242 - INFO - PERFORMANCE file_removal Stop Time = 2023-12-16 22:34:42
+2023-12-16 22:34:42,242 - INFO - PERFORMANCE file_removal Short process duration less than 3 Seconds:0.14
+2023-12-16 22:34:42,242 - INFO - PERFORMANCE file_removal Performance optimization is not reccomended
+2023-12-16 22:34:42,242 - INFO - END file_removal =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        

@@ -14,10 +14,11 @@ FilFile Removal - Easily remove files you dont want
 - copies files
 - moves files
 - delete files
+- Removes files of a specific type of name
 
 ## Getting Started
 
-To get started with the **Talking Code** project, follow these steps:
+To get started with the **File Removal** project, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed at the top of the notebook.
