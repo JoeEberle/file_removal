@@ -11,3 +11,33 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023-12-22 09:07:45,923 - INFO - START file_removal =============================================
+2023-12-22 09:07:45,923 - INFO - START file_removal Start Time = 2023-12-22 09:07:45
+2023-12-22 09:07:45,923 - INFO - file_removal Step 0 - Initialize the configuration file parser
+2023-12-22 09:07:59,717 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2023-12-22 09:07:59,717 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2023-12-22 09:18:25,583 - INFO - PERFORMANCE file_removal The total process duration was:639.66
+2023-12-22 09:18:25,583 - INFO - PERFORMANCE file_removal Stop Time = 2023-12-22 09:18:25
+2023-12-22 09:18:25,583 - INFO - PERFORMANCE file_removal LONG process duration greater than 10 Minutes:639.66
+2023-12-22 09:18:25,583 - INFO - PERFORMANCE file_removal Performance optimization is required
+2023-12-22 09:18:25,583 - INFO - END file_removal =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023-12-22 09:19:48,730 - INFO - START file_removal =============================================
+2023-12-22 09:19:48,731 - INFO - START file_removal Start Time = 2023-12-22 09:19:48
+2023-12-22 09:19:48,731 - INFO - file_removal Step 0 - Initialize the configuration file parser
+2023-12-22 09:19:49,005 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2023-12-22 09:19:49,006 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2023-12-22 09:19:52,594 - INFO - PERFORMANCE file_removal The total process duration was:3.86
+2023-12-22 09:19:52,595 - INFO - PERFORMANCE file_removal Stop Time = 2023-12-22 09:19:52
+2023-12-22 09:19:52,595 - INFO - PERFORMANCE file_removal Low process duration less than 3 minutes:3.86
+2023-12-22 09:19:52,595 - INFO - PERFORMANCE file_removal Performance optimization is optional
+2023-12-22 09:19:52,595 - INFO - END file_removal =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
