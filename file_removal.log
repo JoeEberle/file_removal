@@ -8,3 +8,9 @@
 2024-01-05 08:26:47,678 - INFO - PERFORMANCE file_removal Low process duration less than 3 minutes:3.86
 2024-01-05 08:26:47,678 - INFO - PERFORMANCE file_removal Performance optimization is optional
 2024-01-05 08:26:47,678 - INFO - END file_removal =============================================
+2024-01-05 08:57:48,013 - INFO - START file_removal =============================================
+2024-01-05 08:57:48,013 - INFO - START file_removal Start Time = 2024-01-05 08:57:48
+2024-01-05 08:57:48,014 - INFO - file_removal Step 0 - Initialize the configuration file parser
+2024-01-05 08:57:59,079 - INFO - file_removal - Step 1 Organize source directory files to target directories
+2024-01-05 08:59:08,439 - INFO - file_removal - Step 1 Organize source directory files to target directories
+2024-01-05 09:28:14,383 - INFO - file_removal - Step 1 Organize source directory files to target directories
