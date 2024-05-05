@@ -53,4 +53,7 @@ To get started with the **File Removal** solution repository, follow these steps
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](file_removal.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+    
+## Deliverables or Figures
+ ![additional_image](file_removal.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+    
