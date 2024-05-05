@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # File Removal - Solution for File Removal
 Solution for File Removal
 
@@ -16,8 +18,6 @@ The function concludes by returning the list of deleted files.
 In the event of an error during the deletion process, an exception is caught, 
 and an error message is printed, ensuring graceful error handling.
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
