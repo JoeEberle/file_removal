@@ -59,7 +59,7 @@ To get started with the **File Removal** solution repository, follow these steps
 - **Secure** - All the sample solutions are secure and use synthetic data, ensuring they contain no sensitive data or information.
     
 ## Deliverables or Figures
- ![additional_image](file_removal.png)  <br>
+ ![additional_image](file_removal.png)  <br>![additional_image](file_removal_II.png)  <br>
     
 
 ## Github    
