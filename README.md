@@ -14,7 +14,7 @@ This tool plays a vital role in maintaining data hygiene, enhancing security, an
 
 ## Return on Investment (ROI) 
 
-Implementing an automated file removal function that takes less than 0 minutes to implment can produce **significant savings** will **mitigating security risks**. 
+Implementing an automated file removal function that takes less than 30 minutes to implment can produce **significant savings** will **mitigating security risks**. 
 
 This solution lead to substantial cost savings by **reducing the need for manual data cleanup**, mitigating security risks, and optimizing storage usage. By preventing potential data breaches involving sensitive or private information, it significantly lowers the financial and reputational costs associated with such incidents. Overall, the ROI includes increased productivity, enhanced data protection, and significant reductions in resource expenditure.
 
