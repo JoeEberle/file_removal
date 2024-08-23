@@ -1,8 +1,8 @@
 
 ![Image image_filename](solution_sign.png)
 
-# File Removal - Solution for File Removal
-Solution for File Removal
+# File Removal - nan
+nan
 
 ![Image image_filename](code.png)
 
