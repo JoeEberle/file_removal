@@ -78,11 +78,8 @@ To get started with the **File Removal** solution repository, follow these steps
  ![additional_image](file_removal.png)  <br>![additional_image](file_removal_II.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
