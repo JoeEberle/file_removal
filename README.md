@@ -1,11 +1,4 @@
-
-![Image image_filename](solution_sign.png)
-
-# File Removal - Solution for File Removal
-Solution for File Removal
-
-![Image image_filename](code.png)
-
+![Image image_filename](solution_sign.png)# File Removal - Solution for File Removal![Image image_filename](code.png)
 ## The Efficiency of File Removers for Managing Unnecessary and Sensitive Files
 
 In the digital age, managing and safeguarding data is crucial. A file remover is a technology solution designed to efficiently delete unnecessary or sensitive files from a computer system. 
@@ -48,9 +41,7 @@ The **delete_files_with_keywords function** is a Python script designed to selec
 
 4. In the event of an error during the deletion process, **an exception is caught**, and an error message is printed, ensuring graceful error handling.
 
-
 ![Image image_filename](sample.png)
-
 ## Getting Started
 To get started with the **File Removal** solution repository, follow these steps:
 1. Clone the repository to your local machine.
@@ -65,6 +56,9 @@ To get started with the **File Removal** solution repository, follow these steps
 - Its Fast and Automated
 
 ## Notebook Features
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
@@ -74,13 +68,11 @@ To get started with the **File Removal** solution repository, follow these steps
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Deliverables or Figures
+## List of Figures
  ![additional_image](file_removal.png)  <br>![additional_image](file_removal_II.png)  <br>
     
 
-## Github    https://github.com/JoeEberle/ 
-## Email  josepheberle@outlook.com 
-
+## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
     
 ![Developer](developer.png)
 
