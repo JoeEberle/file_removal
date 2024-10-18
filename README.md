@@ -4,7 +4,25 @@
 
 ## Solution for File Removal
 
-    ![Image image_filename](code.png)
+    
+![Solution](code.png)
+
+    
+## Table of Contents
+
+- [Solution Overview](#solution-overview)
+- [Who will use this ?](#who-can-use)
+- [Advantages of Using](#advantages-of-using)
+- [Return on Investment (ROI)](#return-on-investment-roi)
+- [How it Works](#how-it-works)
+- [Conclusion](#conclusion)
+- [Getting Started](#getting-started)
+- [Solution Features](#solution-features)
+- [Code Features](#code-features)
+- [Deliverables or Figures](#deliverables-or-figures)
+- [Contact Information](#contact-information)
+
+
 ## The Efficiency of File Removers for Managing Unnecessary and Sensitive Files
 
 In the digital age, managing and safeguarding data is crucial. A file remover is a technology solution designed to efficiently delete unnecessary or sensitive files from a computer system. 
@@ -47,7 +65,13 @@ The **delete_files_with_keywords function** is a Python script designed to selec
 
 4. In the event of an error during the deletion process, **an exception is caught**, and an error message is printed, ensuring graceful error handling.
 
-![Image image_filename](code.png)![Image image_filename](sample.png)
+
+![Solution](code.png)
+
+    
+![Solution](code.png)
+
+    
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
