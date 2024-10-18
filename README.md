@@ -41,7 +41,7 @@ The **delete_files_with_keywords function** is a Python script designed to selec
 
 4. In the event of an error during the deletion process, **an exception is caught**, and an error message is printed, ensuring graceful error handling.
 
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
