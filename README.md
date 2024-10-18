@@ -1,4 +1,7 @@
-![Image image_filename](solution_sign.png)# File Removal - Solution for File Removal![Image image_filename](code.png)
+![Image image_filename](solution_sign.png)
+    # File Removal 
+    ## Solution for File Removal
+    ![Image image_filename](code.png)
 ## The Efficiency of File Removers for Managing Unnecessary and Sensitive Files
 
 In the digital age, managing and safeguarding data is crucial. A file remover is a technology solution designed to efficiently delete unnecessary or sensitive files from a computer system. 
@@ -51,7 +54,7 @@ To get started with the **File Removal** solution repository, follow these steps
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
-    ![Image image_filename](solution_features.png)![Image image_filename](notebook_features.png)
+    ## Getting Started## Getting Started![Image image_filename](solution_features.png)## Notebook Features ![Image image_filename](notebook_features.png)
 ## List of Figures
  ![additional_image](file_removal.png)  <br>![additional_image](file_removal_II.png)  <br>
     
